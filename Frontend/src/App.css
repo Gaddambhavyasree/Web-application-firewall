@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #111827;
+    color: white;
+}
+
+.App {
+    padding: 30px;
+}
+
+h1 {
+    color: #00ffcc;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+table {
+    width: 100%;
+    background: white;
+    color: black;
+    border-collapse: collapse;
+}
+
+th {
+    background: #00ffcc;
+}
+
+td, th {
+    padding: 10px;
+}
