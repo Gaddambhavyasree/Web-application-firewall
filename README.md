@@ -1,10 +1,10 @@
 # Web Application Firewall (WAF)
 
 A full-stack AI-powered Web Application Firewall (WAF) project that detects and blocks malicious web attacks such as:
--> SQL Injection
--> Cross-Site Scripting (XSS)
--> Path Traversal
--> Command Injection
+* SQL Injection
+*  Cross-Site Scripting (XSS)
+* Path Traversal
+* Command Injection
 Blocked attacks are logged and displayed in a real-time dashboard.
 
 ### Frontend
